@@ -2,4 +2,4 @@
 
 # Hi! I'm AK
 
-I'm a student, gamer, somewhat self-taught developer, and a full-time eater.
+I'm a student, gamer, full-time eater, and a somewhat self-taught developer.
